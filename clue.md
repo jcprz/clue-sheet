@@ -1,4 +1,5 @@
-# Clue Standard Edition
+# Clue Standard Edition 
+Aiming to have an spanish edition of this
 
 {% assign edition = "standard" %}
 
